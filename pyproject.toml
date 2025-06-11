@@ -12,7 +12,7 @@ dependencies = [
     #Validation
     "pydantic==2.11.3",
     # Networking
-    "requests==2.32.3",
+    "requests==2.32.4",
 ]
 
 [tool.uv]
